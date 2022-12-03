@@ -1,0 +1,45 @@
+ {
+    "items" : [
+    {
+     "name" : "Fresh Orange",
+     "price" : 499,
+     "img" : "image/product-1.png"
+    },
+    {
+        "name" : "Fresh Onionasdf",
+        "price" : 499,
+        "img" : "image/product-2.png"
+       },
+       {
+        "name" : "Fresh Meat",
+        "price" : 499,
+        "img" : "image/product-3.png"
+       },
+       {
+        "name" : "Fresh Cabbage",
+        "price" : 499,
+        "img" : "image/product-4.png"
+       },
+       {
+        "name" : "Fresh Potato",
+        "price" : 499,
+        "img" : "image/product-5.png"
+       },
+       {
+        "name" : "Fresh Avocado",
+        "price" : 499,
+        "img" : "image/product-6.png"
+       },
+       {
+        "name" : "Fresh Carrot",
+        "price" : 499,
+        "img" : "image/product-7.png"
+       },
+       {
+        "name" : "Fresh Lemon",
+        "price" : 499,
+        "img" : "image/product-8.png"
+       }
+       
+]
+    }
